@@ -12,7 +12,8 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## NEURAL NETWORK MODEL:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/7de0515e-a628-4c39-86ba-a7a70d7d2af6)
+
+
 
 ## DESIGN STEPS
 1. Import necessary libraries.
@@ -29,8 +30,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## PROGRAM:
 
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: MADHU MITHA V
+### Register Number: 2305002013
 
 ```python
 import pandas as pd
