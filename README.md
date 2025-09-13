@@ -12,8 +12,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## NEURAL NETWORK MODEL:
-
-
+<img width="791" height="739" alt="image" src="https://github.com/user-attachments/assets/f5507584-d8f5-4e8d-9de8-67126b34ebdf" />
 
 ## DESIGN STEPS
 1. Import necessary libraries.
@@ -185,18 +184,22 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/59ce1619-686c-4ae9-835f-9c77bdb146ed)
-
+<img width="1185" height="213" alt="image" src="https://github.com/user-attachments/assets/d9229f12-57a1-418f-a680-6461ff28a36b" />
 
 ## OUTPUT:
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/714e5816-8daf-49df-8ee1-bff332a8b6b6)
+<img width="631" height="475" alt="image" src="https://github.com/user-attachments/assets/292a99ef-6fa2-4653-a59d-fc9c33c81262" />
+
 ### Classification Report:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/6bfd3d31-f93b-42d9-83e4-a8ec21f6a983)
+<img width="532" height="223" alt="image" src="https://github.com/user-attachments/assets/a2047b79-b41f-4860-a6f4-98d61a98c672" />
+
 ### Confusion Matrix:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/419517ce-f97d-4f3e-af4a-977ccb0d24d4)
+<img width="190" height="81" alt="image" src="https://github.com/user-attachments/assets/d81adc3b-9330-4f71-830d-57024d546249" />
+
+
 ### New Sample Data Prediction:
-![image](https://github.com/Rithigasri/DL_Exp02/assets/93427256/11617352-b34c-4762-b686-39798d90c82d)
+<img width="350" height="76" alt="image" src="https://github.com/user-attachments/assets/6b676e27-ed3a-48a9-a612-6de8310b88f7" />
+
 
 ## RESULT:
 Thus a neural network classification model is developed for the given dataset.
